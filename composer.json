@@ -1,0 +1,14 @@
+{
+    "name": "kingeleven/api-response",
+    "description": "laravel api response",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "kingeleven",
+            "email": "85515659@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
